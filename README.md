@@ -12,8 +12,9 @@ A simple web app to convert currencies with **live exchange rates** and **dynami
 - User-friendly interface
 
 ## Screenshots
-![Desktop View](screenshot-desktop.png)
-![Mobile View](screenshot-mobile.png)
+![Desktop View](images/screenshot-desktop.png)
+![Mobile View](images/screenshot-mobile.png)
+
 
 ## Technologies Used
 - HTML5
